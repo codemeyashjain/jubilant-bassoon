@@ -1,0 +1,29 @@
+body{
+    background-position:center;
+    background-size: cover ;
+}
+.heading
+{
+font-size: 23px;
+margin: 0px;
+font-style:oblique;
+}
+
+#status
+{
+font-size: 18px;
+}
+#btn-warning{
+    width:50px;
+}
+canvas{
+    margin-top:50px;
+    border-radius:20px;
+    border-color: blanchedalmond;
+    box-shadow:5px 5px 5px orange;
+    border-style:groove;
+}
+
+#number{
+    font-size:20px;
+}
